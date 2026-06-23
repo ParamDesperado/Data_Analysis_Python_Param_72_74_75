@@ -1,12 +1,12 @@
-# Python Data Analysis by Param Sangani
+# 📊 Python Data Analysis Projects
 
 This repository contains a collection of data analysis projects completed as part of my Python and Data Science learning journey. The projects focus on exploring, cleaning, transforming, and visualizing real-world datasets using industry-standard Python libraries.
 
-## Repository Overview
+---
 
-This repository includes the following projects:
+## 📚 Projects Included
 
-### College Majors Analysis
+### 🎓 College Majors Analysis
 
 Exploratory Data Analysis of college major datasets to identify trends in salaries, employment rates, and career outcomes.
 
@@ -18,9 +18,7 @@ Exploratory Data Analysis of college major datasets to identify trends in salari
 * Statistical insights
 * Salary and employment analysis
 
----
-
-### LEGO Data Analysis
+### 🧱 LEGO Data Analysis
 
 Analysis of LEGO datasets to uncover historical trends, set releases, themes, and piece distributions.
 
@@ -32,9 +30,7 @@ Analysis of LEGO datasets to uncover historical trends, set releases, themes, an
 * Trend analysis
 * Historical data exploration
 
----
-
-### Google Trends Analysis
+### 📈 Google Trends Analysis
 
 Investigation of search interest data to understand trends and relationships between different topics over time.
 
@@ -48,7 +44,7 @@ Investigation of search interest data to understand trends and relationships bet
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 * Python
 * Pandas
@@ -59,22 +55,8 @@ Investigation of search interest data to understand trends and relationships bet
 
 ---
 
-## Skills Demonstrated
 
-* Data Cleaning
-* Data Exploration
-* Data Wrangling
-* Data Aggregation
-* Data Merging
-* GroupBy Operations
-* Time Series Analysis
-* Statistical Analysis
-* Data Visualization
-* Extracting Insights from Real-World Data
-
----
-
-## Repository Structure
+## 📂 Repository Structure
 
 ```text
 Data_Analysis_Python/
@@ -85,11 +67,8 @@ Data_Analysis_Python/
 └── README.md
 ```
 
----
 
 
-
-### Author
-
-Param Sangani
-Built and maintained as part of my personal learning portfolio in Python, Data Analysis, and Data Science.
+## 👨‍💻 Author
+**Param Sangani**
+Maintained as part of my personal learning portfolio in Python, Data Analysis, and Data Science.
