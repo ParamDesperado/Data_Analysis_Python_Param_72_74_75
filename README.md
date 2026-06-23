@@ -1,48 +1,23 @@
 # 📊 Python Data Analysis Projects
 
-This repository contains a collection of data analysis projects completed as part of my Python and Data Science learning journey. The projects focus on exploring, cleaning, transforming, and visualizing real-world datasets using industry-standard Python libraries.
+A collection of data analysis projects completed as part of my Python and Data Science learning journey.
 
----
-
-## 📚 Projects Included
+## 📚 Projects
 
 ### 🎓 College Majors Analysis
 
-Exploratory Data Analysis of college major datasets to identify trends in salaries, employment rates, and career outcomes.
-
-**Key Topics**
-
-* Data exploration
-* Data cleaning
-* Sorting and filtering
-* Statistical insights
-* Salary and employment analysis
+* Explored salary and employment trends across college majors
+* Built using Pandas and Matplotlib
 
 ### 🧱 LEGO Data Analysis
 
-Analysis of LEGO datasets to uncover historical trends, set releases, themes, and piece distributions.
-
-**Key Topics**
-
-* GroupBy operations
-* Data aggregation
-* Merging DataFrames
-* Trend analysis
-* Historical data exploration
+* Analyzed LEGO sets, themes, and historical trends
+* Used data aggregation and merging techniques in Pandas
 
 ### 📈 Google Trends Analysis
 
-Investigation of search interest data to understand trends and relationships between different topics over time.
-
-**Key Topics**
-
-* Time series analysis
-* Date handling
-* Trend comparison
-* Data visualization
-* Long-term pattern analysis
-
----
+* Investigated search interest trends over time
+* Applied time series analysis and visualization
 
 ## 🛠️ Technologies Used
 
@@ -53,13 +28,19 @@ Investigation of search interest data to understand trends and relationships bet
 * Jupyter Notebook
 * Google Colab
 
----
+## 🚀 Skills Demonstrated
 
+* Data Cleaning
+* Data Exploration
+* Data Aggregation
+* Data Merging
+* Time Series Analysis
+* Data Visualization
 
 ## 📂 Repository Structure
 
 ```text
-Data_Analysis_Python/
+python-data-analysis/
 │
 ├── Day_72_College_Majors_Analysis_Pandas.ipynb
 ├── Day_74_Lego_Data_Analysis.ipynb
@@ -67,8 +48,8 @@ Data_Analysis_Python/
 └── README.md
 ```
 
-
-
 ## 👨‍💻 Author
+
 **Param Sangani**
+
 Maintained as part of my personal learning portfolio in Python, Data Analysis, and Data Science.
